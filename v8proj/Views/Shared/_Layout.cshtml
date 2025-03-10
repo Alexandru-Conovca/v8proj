@@ -1,39 +1,52 @@
-﻿<!DOCTYPE html>
-<html>
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="ru">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
-    @Styles.Render("~/Content/css")
-    @Scripts.Render("~/bundles/modernizr")
+    <title>@ViewBag.Title - V8 Performance</title>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
-        <div class="container">
-            @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
-                <ul class="navbar-nav flex-grow-1">
-                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                </ul>
+<body class="bg-gray-100">
+    <nav class="bg-white shadow-lg">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <a href="@Url.Action("Index", "Home")" class="text-xl font-bold">V8</a>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <a href="@Url.Action("Index", "Home")" class="text-gray-700 hover:text-black">Главная</a>
+                    <a href="#" class="text-gray-700 hover:text-black">Каталог</a>
+                    <a href="#" class="text-gray-700 hover:text-black">О нас</a>
+                    <a href="#" class="text-gray-700 hover:text-black">Контакты</a>
+                </div>
             </div>
         </div>
     </nav>
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
-        </footer>
-    </div>
 
-    @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
-    @RenderSection("scripts", required: false)
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer class="bg-white shadow-lg mt-8">
+        <div class="container mx-auto px-4 py-6">
+            <div class="text-center text-gray-600">
+                &copy; @DateTime.Now.Year - V8 Performance. Все права защищены.
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.getElementById('profileBtn').addEventListener('click', () => {
+            document.getElementById('profileModal').classList.remove('hidden');
+        });
+
+        function closeModal(modalId) {
+            document.getElementById(modalId).classList.add('hidden');
+        }
+    </script>
 </body>
 </html>
+
