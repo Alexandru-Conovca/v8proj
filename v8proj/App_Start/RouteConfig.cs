@@ -16,8 +16,10 @@ namespace v8proj
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
+                namespaces: new[] { "v8proj.Controllers" } // 👈 Явно указываем пространство имен
             );
         }
     }
-}
+};
+
