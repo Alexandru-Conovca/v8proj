@@ -26,5 +26,12 @@ namespace v8proj.Controllers
 
             return View();
         }
+
+        public ActionResult Cart()
+        {
+            ViewBag.Message = "Конзира";
+
+            return View();
+        }
     }
 }
