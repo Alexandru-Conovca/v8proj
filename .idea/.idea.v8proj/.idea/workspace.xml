@@ -7,20 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61324a9d-d5cc-4bb3-95e8-f3d364a35dda" name="Changes" comment="">
+    <list default="true" id="61324a9d-d5cc-4bb3-95e8-f3d364a35dda" name="Changes" comment="Changed all , project works , all links works , we need just add new features">
+      <change afterPath="$PROJECT_DIR$/v8proj/Model/eUseControl.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.v8proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.v8proj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/App_Start/RouteConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/App_Start/RouteConfig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Controllers/Controllers/ErrorController.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/v8proj/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Global.asax" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Global.asax" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Models/Product.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Models/User.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Services/IProductService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Services/ProductService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Views/Home/Cart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Views/Home/Cart.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v8proj/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Web.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v8proj/v8proj.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/v8proj.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +36,8 @@
     <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Home/Cart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Shared/_Header.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Web.config" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -101,8 +94,17 @@
       <workItem from="1741634051339" duration="91000" />
       <workItem from="1741634157674" duration="29000" />
       <workItem from="1741634213277" duration="5354000" />
-      <workItem from="1741686264363" duration="6243000" />
+      <workItem from="1741686264363" duration="9131000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed all , project works , all links works , we need just add new features">
+      <option name="closed" value="true" />
+      <created>1741729546800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729546800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +114,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Changed all , project works , all links works , we need just add new features" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed all , project works , all links works , we need just add new features" />
   </component>
 </project>
