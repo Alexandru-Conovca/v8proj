@@ -8,12 +8,7 @@ namespace v8proj.Controllers
         {
             return View();
         }
-
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
+        
         public ActionResult Cart()
         {
             return View();
@@ -33,5 +28,11 @@ namespace v8proj.Controllers
         {
             return View();
         }
+        public ActionResult ForgotPassword()
+        {
+            return View();
+        }
+
+
     }
 }
