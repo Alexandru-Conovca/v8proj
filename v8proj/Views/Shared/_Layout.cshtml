@@ -9,22 +9,8 @@
     <title>@ViewBag.Title - V8 Performance</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-100">
-    <nav class="bg-white shadow-lg">
-        <div class="container mx-auto px-4">
-            <div class="flex justify-between items-center h-16">
-                <div class="flex items-center">
-                    <a href="@Url.Action("Index", "Home")" class="text-xl font-bold">V8</a>
-                </div>
-                <div class="flex items-center space-x-4">
-                    <a href="@Url.Action("Index", "Home")" class="text-gray-700 hover:text-black">Главная</a>
-                    <a href="#" class="text-gray-700 hover:text-black">Каталог</a>
-                    <a href="#" class="text-gray-700 hover:text-black">О нас</a>
-                    <a href="#" class="text-gray-700 hover:text-black">Контакты</a>
-                </div>
-            </div>
-        </div>
-    </nav>
+<body>
+@Html.Partial("_Header")
 
     <main>
         @RenderBody()

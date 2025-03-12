@@ -7,30 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61324a9d-d5cc-4bb3-95e8-f3d364a35dda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.v8proj/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.v8proj/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.v8proj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Controllers/Controllers/ErrorController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Models/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Models/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Services/IProductService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Services/ProductService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Views/Home/Avtorization.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Views/Home/ForgotPassword.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Views/Home/Registration.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Views/Home/Setings.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Views/Shared/_Footer.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Views/Shared/_Header.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v8proj/Views/Shared/_MainImage.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/App_Start/RouteConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/App_Start/RouteConfig.cs" afterDir="false" />
+    <list default="true" id="61324a9d-d5cc-4bb3-95e8-f3d364a35dda" name="Changes" comment="Changed all , project works , all links works , we need just add new features">
+      <change afterPath="$PROJECT_DIR$/v8proj/Model/eUseControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.v8proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.v8proj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v8proj/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Global.asax" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Global.asax" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Global.asax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Global.asax.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Views/Home/Cart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Views/Home/Cart.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v8proj/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Views/Shared/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Views/Shared/Error.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v8proj/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/Views/Shared/_Layout.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v8proj/v8proj.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/v8proj/v8proj.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +26,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c11f3b1e27ba4255a48f3fa4d01496ab861d8/12/9cfa7b30/UrlHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c11f3b1e27ba4255a48f3fa4d01496ab861d8/39/71fec76b/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e47d419785d848bd8b716ba35b561ae5329e8/0d/a82d739c/WebPageBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/App_Start/RouteConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Global.asax" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Home/Cart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Shared/_Header.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Project UTM/v8proj/v8proj/Web.config" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -56,25 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.v8proj - IIS Express.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.v8proj - IIS Express.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="v8proj - IIS Express" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="EXE_PATH" value="C:/Program Files (x86)/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;/config:$PROJECT_DIR$/.idea/config/applicationhost.config&quot; /site:v8proj /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/IIS Express" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -84,7 +76,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Web" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
       <browser url="https://localhost:44335/" start="true" />
       <method v="2">
         <option name="Build" />
@@ -101,8 +93,18 @@
       <updated>1741634050225</updated>
       <workItem from="1741634051339" duration="91000" />
       <workItem from="1741634157674" duration="29000" />
-      <workItem from="1741634213277" duration="3783000" />
+      <workItem from="1741634213277" duration="5354000" />
+      <workItem from="1741686264363" duration="9131000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed all , project works , all links works , we need just add new features">
+      <option name="closed" value="true" />
+      <created>1741729546800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741729546800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +114,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Changed all , project works , all links works , we need just add new features" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed all , project works , all links works , we need just add new features" />
   </component>
 </project>
