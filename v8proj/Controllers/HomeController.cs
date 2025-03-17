@@ -17,7 +17,7 @@ namespace v8proj.Controllers
 
             return View(cars); // ✅ Передаем список
         }
-        
+
         public ActionResult Cart()
         {
             return View();
@@ -32,7 +32,7 @@ namespace v8proj.Controllers
         {
             return View();
         }
-        
+
         public ActionResult Setings()
         {
             return View();
@@ -41,7 +41,15 @@ namespace v8proj.Controllers
         {
             return View();
         }
-        
+
+        public ActionResult Personal_page()
+        {
+            return View();
+        }
+        public ActionResult Add()
+        {
+            return View();
+        }
 
     }
 }

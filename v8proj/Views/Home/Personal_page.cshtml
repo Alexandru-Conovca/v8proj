@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Личный кабинет</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    
+    <!-- Основное содержимое -->
+    <main class="container mx-auto px-4 py-8">
+        <div class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
+            <div class="flex items-center space-x-6">
+                <img src="avatar.jpg" alt="Фото пользователя" class="w-24 h-24 rounded-full object-cover">
+                <div>
+                    <h1 class="text-2xl font-bold">Имя Фамилия</h1>
+                    <p class="text-gray-600">Возраст: 25 лет</p>
+                    <p class="text-gray-600">О себе: Люблю рисовать автомобили</p>
+                </div>
+            </div>
+            
+            <!-- Любимые категории -->
+            <h2 class="text-xl font-bold mt-6">Любимые категории</h2>
+            <div class="flex space-x-2 mt-2">
+                <span class="bg-blue-500 text-white px-3 py-1 rounded-full">Спорткары</span>
+                <span class="bg-green-500 text-white px-3 py-1 rounded-full">Ретро</span>
+                <span class="bg-red-500 text-white px-3 py-1 rounded-full">Электромобили</span>
+            </div>
+            
+            <!-- Мои концепты -->
+            <h2 class="text-xl font-bold mt-6">Мои концепты</h2>
+            <div class="grid grid-cols-2 gap-4 mt-2">
+                <img src="concept1.jpg" alt="Концепт 1" class="w-full h-32 object-cover rounded-lg">
+                <img src="concept2.jpg" alt="Концепт 2" class="w-full h-32 object-cover rounded-lg">
+            </div>
+            
+            <!-- Кнопка отправки сообщения -->
+            <button class="mt-6 w-full bg-black text-white px-4 py-3 rounded hover:bg-gray-800">
+                Написать сообщение
+            </button>
+        </div>
+    </main>
+    
+</body>
+</html>
