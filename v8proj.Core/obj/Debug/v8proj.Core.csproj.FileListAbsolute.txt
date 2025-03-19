@@ -1,0 +1,12 @@
+D:\Project UTM\v8proj\v8proj.Core\bin\Debug\v8proj.Core.dll.config
+D:\Project UTM\v8proj\v8proj.Core\bin\Debug\v8proj.Core.dll
+D:\Project UTM\v8proj\v8proj.Core\bin\Debug\v8proj.Core.pdb
+D:\Project UTM\v8proj\v8proj.Core\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Project UTM\v8proj\v8proj.Core\bin\Debug\System.Buffers.dll
+D:\Project UTM\v8proj\v8proj.Core\bin\Debug\System.Numerics.Vectors.dll
+D:\Project UTM\v8proj\v8proj.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project UTM\v8proj\v8proj.Core\obj\Debug\v8proj.Core.csproj.AssemblyReference.cache
+D:\Project UTM\v8proj\v8proj.Core\obj\Debug\v8proj.Core.csproj.CoreCompileInputs.cache
+D:\Project UTM\v8proj\v8proj.Core\obj\Debug\v8proj.C.52253DCF.Up2Date
+D:\Project UTM\v8proj\v8proj.Core\obj\Debug\v8proj.Core.dll
+D:\Project UTM\v8proj\v8proj.Core\obj\Debug\v8proj.Core.pdb
