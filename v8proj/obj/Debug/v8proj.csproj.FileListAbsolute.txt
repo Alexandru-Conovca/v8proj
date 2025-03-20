@@ -1,98 +1,249 @@
-D:\Project UTM\v8proj\v8proj\bin\v8proj.dll.config
-D:\Project UTM\v8proj\v8proj\bin\v8proj.dll
-D:\Project UTM\v8proj\v8proj\bin\v8proj.pdb
-D:\Project UTM\v8proj\v8proj\bin\roslyn\csc.exe
-D:\Project UTM\v8proj\v8proj\bin\roslyn\csc.exe.config
-D:\Project UTM\v8proj\v8proj\bin\roslyn\csc.rsp
-D:\Project UTM\v8proj\v8proj\bin\roslyn\csi.exe
-D:\Project UTM\v8proj\v8proj\bin\roslyn\csi.exe.config
-D:\Project UTM\v8proj\v8proj\bin\roslyn\csi.rsp
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.Managed.Core.targets
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Project UTM\v8proj\v8proj\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.AppContext.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Collections.Immutable.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Console.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Globalization.Calendars.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.IO.Compression.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.IO.Compression.ZipFile.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.IO.FileSystem.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Net.Http.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Net.Sockets.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Reflection.Metadata.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.ValueTuple.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Xml.XmlDocument.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Xml.XPath.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\Project UTM\v8proj\v8proj\bin\roslyn\vbc.exe
-D:\Project UTM\v8proj\v8proj\bin\roslyn\vbc.exe.config
-D:\Project UTM\v8proj\v8proj\bin\roslyn\vbc.rsp
-D:\Project UTM\v8proj\v8proj\bin\roslyn\VBCSCompiler.exe
-D:\Project UTM\v8proj\v8proj\bin\roslyn\VBCSCompiler.exe.config
-D:\Project UTM\v8proj\v8proj\bin\System.Web.Helpers.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Web.Mvc.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Web.Razor.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Web.WebPages.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Web.WebPages.Deployment.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Web.WebPages.Razor.xml
-D:\Project UTM\v8proj\v8proj\obj\Debug\v8proj.csproj.AssemblyReference.cache
-D:\Project UTM\v8proj\v8proj\obj\Debug\v8proj.csproj.CoreCompileInputs.cache
-D:\Project UTM\v8proj\v8proj\obj\Debug\v8proj.csproj.Up2Date
-D:\Project UTM\v8proj\v8proj\obj\Debug\v8proj.dll
-D:\Project UTM\v8proj\v8proj\obj\Debug\v8proj.pdb
-D:\Project UTM\v8proj\v8proj\bin\v8proj.BissnessLogic.dll
-D:\Project UTM\v8proj\v8proj\bin\v8proj.Core.dll
-D:\Project UTM\v8proj\v8proj\bin\v8proj.BissnessLogic.pdb
-D:\Project UTM\v8proj\v8proj\bin\v8proj.Core.pdb
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Bcl.HashCode.dll
-D:\Project UTM\v8proj\v8proj\bin\System.Buffers.dll
-D:\Project UTM\v8proj\v8proj\bin\System.Numerics.Vectors.dll
-D:\Project UTM\v8proj\v8proj\bin\System.Threading.Tasks.Extensions.dll
-D:\Project UTM\v8proj\v8proj\bin\System.ValueTuple.dll
-D:\Project UTM\v8proj\v8proj\bin\v8proj.BissnessLogic.dll.config
-D:\Project UTM\v8proj\v8proj\bin\v8proj.Core.dll.config
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.EntityFrameworkCore.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.EntityFrameworkCore.Relational.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Caching.Abstractions.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Caching.Memory.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Configuration.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Configuration.Abstractions.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Configuration.Binder.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.DependencyInjection.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Logging.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Logging.Abstractions.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Options.xml
-D:\Project UTM\v8proj\v8proj\bin\Microsoft.Extensions.Primitives.xml
-D:\Project UTM\v8proj\v8proj\bin\Npgsql.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Collections.Immutable.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Diagnostics.DiagnosticSource.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Memory.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Runtime.CompilerServices.Unsafe.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Text.Encodings.Web.xml
-D:\Project UTM\v8proj\v8proj\bin\System.Text.Json.xml
-D:\Project UTM\v8proj\v8proj\bin\Npgsql.dll
-D:\Project UTM\v8proj\v8proj\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.dll.config
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\csc.exe
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\csc.exe.config
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\csc.rsp
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\csi.exe
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\csi.exe.config
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\csi.rsp
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.AppContext.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Console.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Net.Http.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\vbc.exe
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\vbc.exe.config
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\vbc.rsp
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Antlr3.Runtime.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Newtonsoft.Json.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Helpers.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Mvc.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Optimization.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Razor.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.WebPages.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.BissnessLogic.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.Core.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.DAL.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\WebGrease.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.BissnessLogic.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.Core.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.DAL.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Helpers.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Mvc.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Optimization.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.Razor.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.WebPages.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Newtonsoft.Json.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Antlr3.Runtime.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\obj\Debug\v8proj.csproj.AssemblyReference.cache
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\obj\Debug\v8proj.csproj.CoreCompileInputs.cache
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\obj\Debug\v8proj.csproj.Up2Date
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\obj\Debug\v8proj.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\obj\Debug\v8proj.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\EntityFramework.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\v8proj.DAL.dll.config
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\EntityFramework.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\ExpressMapper.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\ExpressMapper.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\ExpressMapper.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Abstractions.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Container.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Mvc5.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Abstractions.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Container.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Mvc.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\WebActivatorEx.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Mvc.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\Unity.Mvc.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\EntityFramework.SqlServer.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Data.SqlClient.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\EntityFramework.SqlServer.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj\bin\System.Data.SqlClient.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.dll.config
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\csc.exe
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\csc.exe.config
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\csc.rsp
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\csi.exe
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\csi.exe.config
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\csi.rsp
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.AppContext.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Console.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Net.Http.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\vbc.exe
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\vbc.exe.config
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\vbc.rsp
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivand\UTM_V8\v8proj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivand\UTM_V8\v8proj\bin\Antlr3.Runtime.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\EntityFramework.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\EntityFramework.SqlServer.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Newtonsoft.Json.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Data.SqlClient.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Helpers.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Mvc.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Optimization.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Razor.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.WebPages.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Abstractions.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Container.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Mvc.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Mvc5.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.BissnessLogic.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.Core.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.DAL.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\WebActivatorEx.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\WebGrease.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\ExpressMapper.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Text.Json.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Memory.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Text.Encodings.Web.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Bcl.Memory.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Buffers.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.ValueTuple.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Numerics.Vectors.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.BissnessLogic.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.BissnessLogic.dll.config
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.Core.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.DAL.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\v8proj.DAL.dll.config
+C:\Users\ivand\UTM_V8\v8proj\bin\EntityFramework.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\EntityFramework.SqlServer.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Data.SqlClient.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Helpers.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Mvc.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Optimization.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.Razor.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.WebPages.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Newtonsoft.Json.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Abstractions.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Container.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Mvc.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\Unity.Mvc.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Antlr3.Runtime.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\ExpressMapper.pdb
+C:\Users\ivand\UTM_V8\v8proj\bin\ExpressMapper.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Text.Json.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Memory.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Text.Encodings.Web.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Bcl.Memory.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Buffers.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.ValueTuple.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\System.Numerics.Vectors.xml
+C:\Users\ivand\UTM_V8\v8proj\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivand\UTM_V8\v8proj\obj\Debug\v8proj.csproj.AssemblyReference.cache
+C:\Users\ivand\UTM_V8\v8proj\obj\Debug\v8proj.csproj.CoreCompileInputs.cache
+C:\Users\ivand\UTM_V8\v8proj\obj\Debug\v8proj.csproj.Up2Date
+C:\Users\ivand\UTM_V8\v8proj\obj\Debug\v8proj.dll
+C:\Users\ivand\UTM_V8\v8proj\obj\Debug\v8proj.pdb

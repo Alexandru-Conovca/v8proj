@@ -1,19 +1,63 @@
-D:\Project UTM\v8proj\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.csproj.AssemblyReference.cache
-D:\Project UTM\v8proj\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.csproj.CoreCompileInputs.cache
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.dll.config
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.pdb
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\Microsoft.Bcl.HashCode.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\System.Buffers.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\System.Numerics.Vectors.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\System.ValueTuple.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\v8proj.Core.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\v8proj.Core.pdb
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\v8proj.Core.dll.config
-D:\Project UTM\v8proj\v8proj.BissnessLogic\obj\Debug\v8proj.B.415E09FA.Up2Date
-D:\Project UTM\v8proj\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.pdb
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\Npgsql.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\Project UTM\v8proj\v8proj.BissnessLogic\bin\Debug\Npgsql.xml
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.csproj.AssemblyReference.cache
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\bin\Debug\v8proj.Core.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\bin\Debug\v8proj.Core.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\obj\Debug\v8proj.B.415E09FA.Up2Date
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\bin\Debug\ExpressMapper.dll
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\bin\Debug\ExpressMapper.pdb
+C:\Users\ivand\OneDrive\Рабочий стол\v8proj-master\v8proj.BissnessLogic\bin\Debug\ExpressMapper.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.csproj.AssemblyReference.cache
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\obj\Debug\v8proj.BissnessLogic.pdb
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.dll.config
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\v8proj.BissnessLogic.pdb
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\ExpressMapper.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Buffers.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Memory.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Text.Json.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.ValueTuple.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\v8proj.Core.dll
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\v8proj.Core.pdb
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\ExpressMapper.pdb
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\ExpressMapper.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Buffers.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Memory.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Text.Json.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\bin\Debug\System.ValueTuple.xml
+C:\Users\ivand\UTM_V8\v8proj.BissnessLogic\obj\Debug\v8proj.B.415E09FA.Up2Date
